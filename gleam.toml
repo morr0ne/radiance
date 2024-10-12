@@ -1,6 +1,6 @@
 name = "radiance"
 version = "1.0.0"
-description = ""
+description = "Wayland implementation for gleam"
 licences = ["Apache-2.0"]
 
 # Fill out these fields if you intend to generate HTML documentation or publish
